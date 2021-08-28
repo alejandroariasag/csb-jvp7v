@@ -2,7 +2,7 @@
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Screenshot](./images/screenshot.jpg)
+![Screenshot](./images/screenshot.png)
 
 ## Table of contents
 
@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://alejandroariasag.github.io/csb-jvp7v/
 
 ## My process
 
