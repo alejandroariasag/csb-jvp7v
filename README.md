@@ -2,7 +2,7 @@
 
 This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![Screenshot](https://github.com/aleckbeu/Social-proof-section/blob/gh-pages/images/screenshot.png?raw=true)
+![Screenshot](https://github.com/swckd/Social-proof-section/blob/gh-pages/images/screenshot.png?raw=true)
 
 ## Table of contents
 
@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- GirHub URL: https://github.com/aleckbeu/Social-proof-section/
-- Live Site URL: https://aleckbeu.github.io/Social-proof-section/
+- GirHub URL: https://github.com/swckd/Social-proof-section/
+- Live Site URL: https://swckd.github.io/Social-proof-section/
 
 ## My process
 
@@ -40,4 +40,4 @@ Users should be able to:
 
 ## Author
 
-- Website - https://thequiffrepublic.com
+- Website - 
